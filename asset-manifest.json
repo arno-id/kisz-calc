@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kiszamolo/static/css/main.bda1aee2.chunk.css",
+    "main.js": "/kiszamolo/static/js/main.06139a2a.chunk.js",
+    "main.js.map": "/kiszamolo/static/js/main.06139a2a.chunk.js.map",
+    "runtime-main.js": "/kiszamolo/static/js/runtime-main.b8c57a38.js",
+    "runtime-main.js.map": "/kiszamolo/static/js/runtime-main.b8c57a38.js.map",
+    "static/css/2.6d52cc7f.chunk.css": "/kiszamolo/static/css/2.6d52cc7f.chunk.css",
+    "static/js/2.d6040ce3.chunk.js": "/kiszamolo/static/js/2.d6040ce3.chunk.js",
+    "static/js/2.d6040ce3.chunk.js.map": "/kiszamolo/static/js/2.d6040ce3.chunk.js.map",
+    "index.html": "/kiszamolo/index.html",
+    "precache-manifest.f32c231eb3b90d0dd1f1992e3a145d2c.js": "/kiszamolo/precache-manifest.f32c231eb3b90d0dd1f1992e3a145d2c.js",
+    "service-worker.js": "/kiszamolo/service-worker.js",
+    "static/css/2.6d52cc7f.chunk.css.map": "/kiszamolo/static/css/2.6d52cc7f.chunk.css.map",
+    "static/css/main.bda1aee2.chunk.css.map": "/kiszamolo/static/css/main.bda1aee2.chunk.css.map",
+    "static/js/2.d6040ce3.chunk.js.LICENSE.txt": "/kiszamolo/static/js/2.d6040ce3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c57a38.js",
+    "static/css/2.6d52cc7f.chunk.css",
+    "static/js/2.d6040ce3.chunk.js",
+    "static/css/main.bda1aee2.chunk.css",
+    "static/js/main.06139a2a.chunk.js"
+  ]
+}
