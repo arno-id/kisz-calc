@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kisz-calc/static/css/main.bda1aee2.chunk.css",
-    "main.js": "/kisz-calc/static/js/main.c03cb59f.chunk.js",
-    "main.js.map": "/kisz-calc/static/js/main.c03cb59f.chunk.js.map",
+    "main.js": "/kisz-calc/static/js/main.2d68c4e9.chunk.js",
+    "main.js.map": "/kisz-calc/static/js/main.2d68c4e9.chunk.js.map",
     "runtime-main.js": "/kisz-calc/static/js/runtime-main.09c6f189.js",
     "runtime-main.js.map": "/kisz-calc/static/js/runtime-main.09c6f189.js.map",
     "static/css/2.6d52cc7f.chunk.css": "/kisz-calc/static/css/2.6d52cc7f.chunk.css",
     "static/js/2.d6040ce3.chunk.js": "/kisz-calc/static/js/2.d6040ce3.chunk.js",
     "static/js/2.d6040ce3.chunk.js.map": "/kisz-calc/static/js/2.d6040ce3.chunk.js.map",
     "index.html": "/kisz-calc/index.html",
-    "precache-manifest.a67cc2f88d77e0bedee5846076ca90d0.js": "/kisz-calc/precache-manifest.a67cc2f88d77e0bedee5846076ca90d0.js",
+    "precache-manifest.5c6c0bf97bb64a3af40d2795fe436859.js": "/kisz-calc/precache-manifest.5c6c0bf97bb64a3af40d2795fe436859.js",
     "service-worker.js": "/kisz-calc/service-worker.js",
     "static/css/2.6d52cc7f.chunk.css.map": "/kisz-calc/static/css/2.6d52cc7f.chunk.css.map",
     "static/css/main.bda1aee2.chunk.css.map": "/kisz-calc/static/css/main.bda1aee2.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6d52cc7f.chunk.css",
     "static/js/2.d6040ce3.chunk.js",
     "static/css/main.bda1aee2.chunk.css",
-    "static/js/main.c03cb59f.chunk.js"
+    "static/js/main.2d68c4e9.chunk.js"
   ]
 }

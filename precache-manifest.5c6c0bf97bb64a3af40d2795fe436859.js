@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fd651d8645b0e3ff83d2a30e3937da1",
+    "revision": "f472d09e7487657da6dd80b6720b83ff",
     "url": "/kisz-calc/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kisz-calc/static/css/2.6d52cc7f.chunk.css"
   },
   {
-    "revision": "9df800c4be9dd61533ec",
+    "revision": "e5074b4ecf633e19c02c",
     "url": "/kisz-calc/static/css/main.bda1aee2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kisz-calc/static/js/2.d6040ce3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9df800c4be9dd61533ec",
-    "url": "/kisz-calc/static/js/main.c03cb59f.chunk.js"
+    "revision": "e5074b4ecf633e19c02c",
+    "url": "/kisz-calc/static/js/main.2d68c4e9.chunk.js"
   },
   {
     "revision": "f89765b99970f34a9085",
