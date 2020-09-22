@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/kisz-calc/static/css/main.bda1aee2.chunk.css",
-    "main.js": "/kisz-calc/static/js/main.a0f497b9.chunk.js",
-    "main.js.map": "/kisz-calc/static/js/main.a0f497b9.chunk.js.map",
+    "main.js": "/kisz-calc/static/js/main.b53d8cc9.chunk.js",
+    "main.js.map": "/kisz-calc/static/js/main.b53d8cc9.chunk.js.map",
     "runtime-main.js": "/kisz-calc/static/js/runtime-main.09c6f189.js",
     "runtime-main.js.map": "/kisz-calc/static/js/runtime-main.09c6f189.js.map",
     "static/css/2.6d52cc7f.chunk.css": "/kisz-calc/static/css/2.6d52cc7f.chunk.css",
-    "static/js/2.d6040ce3.chunk.js": "/kisz-calc/static/js/2.d6040ce3.chunk.js",
-    "static/js/2.d6040ce3.chunk.js.map": "/kisz-calc/static/js/2.d6040ce3.chunk.js.map",
+    "static/js/2.346fd7f8.chunk.js": "/kisz-calc/static/js/2.346fd7f8.chunk.js",
+    "static/js/2.346fd7f8.chunk.js.map": "/kisz-calc/static/js/2.346fd7f8.chunk.js.map",
     "index.html": "/kisz-calc/index.html",
-    "precache-manifest.2401783027bf7066cabb7a9326a8ab8f.js": "/kisz-calc/precache-manifest.2401783027bf7066cabb7a9326a8ab8f.js",
+    "precache-manifest.a034ad0bdaf05395e63add63bd1dfaf2.js": "/kisz-calc/precache-manifest.a034ad0bdaf05395e63add63bd1dfaf2.js",
     "service-worker.js": "/kisz-calc/service-worker.js",
     "static/css/2.6d52cc7f.chunk.css.map": "/kisz-calc/static/css/2.6d52cc7f.chunk.css.map",
     "static/css/main.bda1aee2.chunk.css.map": "/kisz-calc/static/css/main.bda1aee2.chunk.css.map",
-    "static/js/2.d6040ce3.chunk.js.LICENSE.txt": "/kisz-calc/static/js/2.d6040ce3.chunk.js.LICENSE.txt"
+    "static/js/2.346fd7f8.chunk.js.LICENSE.txt": "/kisz-calc/static/js/2.346fd7f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09c6f189.js",
     "static/css/2.6d52cc7f.chunk.css",
-    "static/js/2.d6040ce3.chunk.js",
+    "static/js/2.346fd7f8.chunk.js",
     "static/css/main.bda1aee2.chunk.css",
-    "static/js/main.a0f497b9.chunk.js"
+    "static/js/main.b53d8cc9.chunk.js"
   ]
 }
