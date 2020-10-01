@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kisz-calc/precache-manifest.90bebe40a6a7ed9f8c5b570b2010e639.js"
+  "/kisz-calc/precache-manifest.faddfacdc45d57368f4c209a43900ebc.js"
 );
 
 self.addEventListener('message', (event) => {
